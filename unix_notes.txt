@@ -9,7 +9,7 @@
 
   #less - shows the text in terminal
 
-HEAD points to most recent commit
+HEAD points to most recent commit on most recent branch
 
   364  #adding your dirty file to committed (clean)
       git commit unix_notes.txt
